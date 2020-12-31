@@ -1,4 +1,4 @@
-alert("Fauceter wishes you a \n\t Happy New Year :) \nEnable desktop site for snow flow ");
+alert("Fauceter wishes you a \n\t Happy New Year :) \n\nEnable Desktop site mode for snow flow ");
 
 /** @license
  * DHTML Snowstorm! JavaScript-based snow for web pages
