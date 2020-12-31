@@ -1,24 +1,4 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+alert("Desktop Site->snow:)");
 
 /** @license
  * DHTML Snowstorm! JavaScript-based snow for web pages
