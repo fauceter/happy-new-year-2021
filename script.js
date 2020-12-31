@@ -1,4 +1,4 @@
-alert("Desktop Site->snow:)");
+alert("Fauceter wishes you a Happy New Year :)            Enable desktop site for snow flow");
 
 /** @license
  * DHTML Snowstorm! JavaScript-based snow for web pages
